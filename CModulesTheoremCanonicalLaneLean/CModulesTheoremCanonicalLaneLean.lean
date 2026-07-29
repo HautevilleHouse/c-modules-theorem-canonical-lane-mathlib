@@ -1,0 +1,14 @@
+import CModulesTheoremCanonicalLaneLean.AdmissibleClass
+import CModulesTheoremCanonicalLaneLean.BridgeLemmas
+import CModulesTheoremCanonicalLaneLean.GateLemmas
+import CModulesTheoremCanonicalLaneLean.ModuleDefinitions
+import CModulesTheoremCanonicalLaneLean.ModuleFoundations
+import CModulesTheoremCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace CModulesTheoremCanonicalLaneLean
+
+-- Root module for C Modules Theorem Canonical Lane
+
+end CModulesTheoremCanonicalLaneLean
+end HautevilleHouse
